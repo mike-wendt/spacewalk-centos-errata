@@ -1,0 +1,1 @@
+# spacewalk-centos-errata
