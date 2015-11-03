@@ -19,6 +19,9 @@ By default a cron task runs daily at 6am, but can be changed in `/opt/cron.d/spa
 ## Use
 Run `/opt/spacewalk-centos-errata/errata-sync.sh` to download the latest XML files with errata updates and begin scanning packages to match
 
+## Other Errata Sources
+* **Ubuntu USN Errata** - https://github.com/philicious/spacewalk-scripts
+
 ## License
 MIT License for project in file `LICENSE`
 
